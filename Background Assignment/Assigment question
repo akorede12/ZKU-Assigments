@@ -1,0 +1,13 @@
+Q1. Program a super simple “Hello World” smart contract: store an unsigned integer and then retrieve it. 
+Please clearly comment your code. Once completed, deploy the smart contract on Remix. 
+Include the .sol file and a screenshot of the Remix UI once deployed in your final submission pdf (more info about submission formatting below).
+
+Q2. On the documentation page, the “Ballot” contract  demonstrates a lot of features on Solidity. 
+Read through the script and try to understand what each line of code is doing, then implement the Possible Improvements by reducing the number of transactions 
+in the “giveRightToVote” function while maintaining the same functionality of the program.
+
+Q3. Deploy your script on Remix and compare the difference in gas fees between the original script and the improved script 
+when giving 10 voters the right to vote. Once completed, submit (via pdf or Github) 
+(1) your improved version of the contract (.sol file) with comments describing the changes you made, and 
+(2) screenshots (before and after) of the gas fees for the transaction(s) to give 10 voters the right to vote. 
+All code to be submitted either in pdf ( only code snippets where ever required) or via Github links ( copy the repo/pull-request links and the commit in the pdf).
